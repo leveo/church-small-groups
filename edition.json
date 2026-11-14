@@ -1,0 +1,27 @@
+{
+  "mainRepo": "leveo/church4christ",
+  "version": "v1.4.0",
+  "preset": "small-groups",
+  "homepage": "https://church4christ.yunfei-song.com/en/sandbox",
+  "description": "Open-source small group management for churches: public and private groups, join requests, group leaders, recurring meetings, and attendance tracking. Self-hosted, English and Chinese. A Church4Christ edition.",
+  "topics": [
+    "church",
+    "small-groups",
+    "small-group-management",
+    "church-groups",
+    "bible-study",
+    "group-management",
+    "attendance-tracking",
+    "fellowship",
+    "church-management",
+    "chms",
+    "church4christ",
+    "self-hosted",
+    "nonprofit",
+    "bilingual",
+    "cloudflare-workers",
+    "cloudflare-d1",
+    "astro",
+    "planning-center-alternative"
+  ]
+}
